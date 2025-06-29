@@ -1,0 +1,1 @@
+Whenever you open a new chrome tab, this plugin will check if you have the same tab open elsewhere in the same window, finding which it will close this new tab and open the older one so that you don't run into duplicate tabs and clutter your chrome
