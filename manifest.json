@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "No More Duplicate tabs",
+  "version": "1.0",
+  "description": "Prevents opening duplicate tabs with the same URL.",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
